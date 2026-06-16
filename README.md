@@ -8,7 +8,6 @@ Software developer passionate, curious, and motivated, seeking an opportunity to
 
 ---
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SateaMall&show_icons=true&theme=gruvbox)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=SateaMall&theme=gruvbox)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SateaMall&layout=compact&theme=gruvbox)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
