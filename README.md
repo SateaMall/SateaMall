@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software developer passionate, curious, and motivated, seeking an opportunity to apply both technical and interpersonal skills within a dynamic team. I enjoy building robust and user-focused applications and am currently working on a personal dynamic photo gallery project to further develop my skills.
+Software developer passionate, curious, and motivated, seeking an opportunity to apply both technical and interpersonal skills within a dynamic team. I enjoy building robust, user-focused applications, and I recently created a multi-user platform specialized in dynamic photo exposure to further develop my skills.
 
 ## ⭐️ Stats:
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SateaMall&show_icons=true&theme=gruvbox)
